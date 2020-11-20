@@ -2,9 +2,9 @@ public class Employee{
 	private string name;
 	private string id;
 	private Manager manager;
-	Employee (string name, string id, Manager manager){ // changing file 
+	Employee (string name, string id, Manager manager){ // changing file
 			name = name;
-			id = id;
+			id = id; // added comment
 			manager = aCompany;
 		}	
 	public String toString ()
